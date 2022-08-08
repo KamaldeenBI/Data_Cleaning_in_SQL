@@ -21,4 +21,12 @@ A quick glance into the Excel file gives ideas to an extent on what needs to be 
 https://www.kaggle.com/code/tmthyjames/nashville-housing-data-1/data
 
 # Data Transformation
-Check SQL File
+Check SQL File above for Queries but below are before and after cleaning snapshots from the project
+
+Housing Dataset in its primary form
+![Screenshot (59)](https://user-images.githubusercontent.com/108130729/183515700-7a87764f-42d1-4518-a872-5299dd1328d4.png)
+
+Ready for Analysis after extensive cleaning 
+![Screenshot (90)](https://user-images.githubusercontent.com/108130729/183515813-54e678e0-6c8f-45ed-9cd4-9b065cad0579.png)
+
+# Thank you for your time. So much appreciated.
